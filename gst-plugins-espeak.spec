@@ -3,7 +3,7 @@
 
 Name: %{oname}-plugins-espeak
 Version: 0.4.0
-Release: 1
+Release: 2
 Summary: A simple gstreamer plugin to use espeak
 
 Group: System/Libraries
