@@ -8,7 +8,7 @@ Summary: A simple gstreamer plugin to use espeak
 
 Group: System/Libraries
 License: LGPLv2+
-URL: http://wiki.sugarlabs.org/go/Activity_Team/gst-plugins-espeak
+URL: https://wiki.sugarlabs.org/go/Activity_Team/gst-plugins-espeak
 Source0: http://download.sugarlabs.org/sources/honey/gst-plugins-espeak/gst-plugins-espeak-%{version}.tar.gz
 
 BuildRequires: espeak-devel
