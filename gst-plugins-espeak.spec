@@ -11,6 +11,11 @@ License: LGPLv2+
 URL: https://wiki.sugarlabs.org/go/Activity_Team/gst-plugins-espeak
 Source0: http://download.sugarlabs.org/sources/honey/gst-plugins-espeak/gst-plugins-espeak-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: espeak-devel
 BuildRequires: pkgconfig(glib-2.0)
 BuildRequires: pkgconfig(gstreamer-plugins-base-1.0) 
